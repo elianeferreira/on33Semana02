@@ -19,3 +19,5 @@ print("Hobbies:", hobbies1)
 print("Endereço:", endereco)
 print("Contato:", contato)
 
+
+
